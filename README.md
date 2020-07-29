@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with Backend 
 - 💬 Ask me about Technologies
-- 📫 How to reach me: [Twitter ](https://twitter.com/voyager_sage) , [Linkedin](https://www.linkedin.com/in/rishabh-sharma-1a1184160/) , 
+- 📫 How to reach me:  https://172347.8b.io/
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: I like Mountains and hiking.
 
